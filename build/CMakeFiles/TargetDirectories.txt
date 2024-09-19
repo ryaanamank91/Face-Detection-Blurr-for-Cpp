@@ -1,0 +1,3 @@
+/media/ryaan/My Passport/Start_Up/C_Code_Trial1/Face_detection_and_blurr/FaceDetectionBlurrCpp/build/CMakeFiles/FaceDetectionBlurrCpp.dir
+/media/ryaan/My Passport/Start_Up/C_Code_Trial1/Face_detection_and_blurr/FaceDetectionBlurrCpp/build/CMakeFiles/edit_cache.dir
+/media/ryaan/My Passport/Start_Up/C_Code_Trial1/Face_detection_and_blurr/FaceDetectionBlurrCpp/build/CMakeFiles/rebuild_cache.dir
